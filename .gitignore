@@ -1,8 +1,7 @@
 node_modules
 dist
 cache
-temp
 *.log*
-.DS_Store
 .fleet
 .idea
+.DS_Store
