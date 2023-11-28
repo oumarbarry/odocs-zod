@@ -6,6 +6,7 @@ export default defineConfig({
   description: "TypeScript-first schema validation with static type inference.",
 
   cleanUrls: true,
+  // ignoreDeadLinks: true,
   rewrites: { "README.md": "index.md" },
 
   head: [

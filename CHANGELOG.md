@@ -190,7 +190,7 @@ Jan 25, 2021
 
 - Introduced z.void()
 - Major overhaul to error handling system, including the introduction of custom error maps
-- Wrote new [error handling guide](./ERROR_HANDLING.md)
+- Wrote new [error handling guide](ERROR_HANDLING.md)
 
 ### zod@1.7
 
