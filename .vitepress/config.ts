@@ -15,9 +15,7 @@ export default defineConfig({
 
   themeConfig: {
     // editLink: { pattern: 'https://github.com/colinhacks/zod/edit/master/:path' },
-
-    siteTitle: "Zod",
-    logo: { src: "/logo.svg" },
+    editLink: { pattern: "https://github.com/oumarbarry/odocs-zod/edit/main/:path" },
 
     search: { provider: "local" },
 
